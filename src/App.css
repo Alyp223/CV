@@ -1,0 +1,33 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+table {
+  width:800px;
+  table-layout:13;
+  }
+  
+  
+  td {
+  word-wrap:break-word;
+  }
+
+  <style type="text/css">
+  table    { border:ridge 5px red; background-color:#F6F6F6; color:#FFF; }
+  table td { border:inset 2px rgb(99, 191, 252); }
+</style>
+html {
+  box-sizing: border-box;
